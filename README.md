@@ -2,6 +2,7 @@
 
 Author: 
 - Prof. Dr. Kaio Olimpio das Graças Dias (DBG/UFV)
+- Quantitative Genetics and Statistical Learning Lab (UFV). 
 
 email: kaio.o.dias@ufv.br
       
